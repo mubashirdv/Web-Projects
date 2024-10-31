@@ -1,0 +1,28 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h3 {
+    color: #333;
+  }
+  
+  footer {
+    margin-top: 50px;
+  }
+  
+  .progress {
+    height: 20px;
+  }
+  
+  #timer {
+    font-weight: bold;
+  }
+  
+  .quiz-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
